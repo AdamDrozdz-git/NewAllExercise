@@ -1,14 +1,18 @@
-package pl.sdacademy.inheritance;
+package pl.sdacademy.inheritance.vehicle;
 
 public class Vehicle {
     private int speed;
     private int maxSpeed;
-    public int wheelCount;
+    private int wheelCount;
 
     public Vehicle(int speed, int maxSpeed, int wheelCount) {
         this.speed = speed;
         this.maxSpeed = maxSpeed;
         this.wheelCount = wheelCount;
+    }
+
+    public int getWheelCount() {
+        return wheelCount;
     }
 
     public int getSpeed() {

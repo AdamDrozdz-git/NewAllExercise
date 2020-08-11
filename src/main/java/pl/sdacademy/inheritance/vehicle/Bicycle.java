@@ -1,11 +1,13 @@
-package pl.sdacademy.inheritance;
+package pl.sdacademy.inheritance.vehicle;
 
 public class Bicycle extends Vehicle {
+
     private int numberOfDerailleur;
 
-    public Bicycle(int speed, int maxSpeed, int wheelCount, int numberOfDerailleur) {
+    public Bicycle(int speed, int maxSpeed, int numberOfDerailleur) {
         super(speed, maxSpeed, 2);
         this.numberOfDerailleur = numberOfDerailleur;
+
     }
 
     public int getNumberOfDerailleur() {
