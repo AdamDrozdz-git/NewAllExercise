@@ -1,7 +1,8 @@
 package pl.sdacademy.inheritance.timetoschool;
 
-public class SchoolPerson extends Person{
+public class SchoolPerson extends Person {
     private String school;
+
 
     public String getSchool() {
         return school;
