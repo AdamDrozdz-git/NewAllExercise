@@ -20,15 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a0af6c6-8b14-4688-ae40-4defcb9b1aff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/inheritance/jeweler/Bracelet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/inheritance/jeweler/Jewellery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/inheritance/jeweler/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/inheritance/jeweler/WomanJewellery.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/inheritance/timetoschool/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/inheritance/timetoschool/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/inheritance/timetoschool/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/inheritance/timetoschool/School.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/inheritance/timetoschool/SchoolPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/inheritance/timetoschool/SchoolPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sdacademy/inheritance/timetoschool/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sdacademy/inheritance/timetoschool/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/inheritance/Bicycle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/inheritance/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/inheritance/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/inheritance/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/sdacademy/inheritance/timetoschool/School.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/sdacademy/inheritance/timetoschool/School.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +58,26 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.School">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.sdacademy.inheritance.timetoschool.Main" />
       <module name="allExercise" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="pl.sdacademy.inheritance.timetoschool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.sdacademy.inheritance.jeweler.Main" />
+      <module name="allExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sdacademy.inheritance.jeweler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,6 +113,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.School" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
@@ -147,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597170606911</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Time To School exercise finish">
+      <created>1597263613808</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1597263613808</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,13 +179,15 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create project and update gitignore" />
     <MESSAGE value="Vehicle exercise done." />
     <MESSAGE value="Add package animalspecies exercise, and finish Vehicle exercise" />
     <MESSAGE value="Time To School exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Time To School exercise" />
+    <MESSAGE value="Time To School exercise finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="Time To School exercise finish" />
   </component>
   <component name="WindowStateProjectService">
     <state x="586" y="198" key="#Inspections" timestamp="1597255701543">
@@ -177,11 +198,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/0.0.1920.1040/1920.0.1280.680/-1920.0.1536.824@0.0.1920.1040" timestamp="1596393431387" />
-    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1597262567610">
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1597406661134">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/-1920.0.1536.832/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1597406661134" />
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.0.1536.824/1920.0.1280.680@0.0.1920.1040" timestamp="1597338761897" />
     <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1280.680/-1920.0.1536.824@0.0.1920.1040" timestamp="1596392438982" />
     <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/1920.0.1280.688/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1597262567610" />
+    <state x="690" y="267" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1597408018556">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/-1920.0.1536.832/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1597408018556" />
     <state x="838" y="418" key="Github.ShareDialog" timestamp="1596389747105">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -190,43 +217,53 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="803" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040/1920.0.1280.680/-1920.0.1536.824@0.0.1920.1040" timestamp="1596389754882" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1597255633094">
+    <state width="1877" height="442" key="GridCell.Tab.0.bottom" timestamp="1597410256792">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="442" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1597410256792" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.680/-1920.0.1536.824@0.0.1920.1040" timestamp="1596394164393" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/1920.0.1280.688/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1597255633094" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1597255633094">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/1920.0.1280.688/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1597263572689" />
+    <state width="1877" height="442" key="GridCell.Tab.0.center" timestamp="1597410256792">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="442" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1597410256792" />
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.680/-1920.0.1536.824@0.0.1920.1040" timestamp="1596394164392" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center/1920.0.1280.688/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1597255633094" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1597255633094">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/1920.0.1280.688/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1597263572689" />
+    <state width="1877" height="442" key="GridCell.Tab.0.left" timestamp="1597410256792">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="442" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1597410256792" />
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.680/-1920.0.1536.824@0.0.1920.1040" timestamp="1596394164391" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left/1920.0.1280.688/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1597255633094" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1597255633094">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/1920.0.1280.688/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1597263572689" />
+    <state width="1877" height="442" key="GridCell.Tab.0.right" timestamp="1597410256792">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1877" height="442" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1597410256792" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.680/-1920.0.1536.824@0.0.1920.1040" timestamp="1596394164393" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right/1920.0.1280.688/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1597255633094" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/1920.0.1280.688/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1597263572689" />
     <state x="540" y="263" key="IDE.errors.dialog" timestamp="1597254843644">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="540" y="263" key="IDE.errors.dialog/1920.0.1280.688/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1597254843644" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597170608973">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597263616300">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1280.680/-1920.0.1536.824@0.0.1920.1040" timestamp="1596394115824" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1280.688/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1597170608973" />
-    <state x="755" y="267" key="refactoring.ChangeSignatureDialog" timestamp="1597255787346">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1280.688/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1597263616300" />
+    <state x="-1679" y="0" width="1309" height="880" key="dock-window-1" timestamp="1597408532829">
+      <screen x="-1920" y="0" width="1536" height="832" />
+    </state>
+    <state x="-1679" y="0" width="1309" height="880" key="dock-window-1/-1920.0.1536.832/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1597408532829" />
+    <state x="755" y="267" key="refactoring.ChangeSignatureDialog" timestamp="1597408036142">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="755" y="267" key="refactoring.ChangeSignatureDialog/-1920.0.1536.832/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1597408036142" />
     <state x="755" y="267" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/1920.0.1280.680/-1920.0.1536.824@0.0.1920.1040" timestamp="1596392038965" />
     <state x="755" y="267" key="refactoring.ChangeSignatureDialog/1920.0.1280.688/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1597255787346" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1596391944839">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597408044518">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1536.832/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1597408044518" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1280.680/-1920.0.1536.824@0.0.1920.1040" timestamp="1596391944839" />
   </component>
 </project>

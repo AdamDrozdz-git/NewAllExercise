@@ -1,9 +1,8 @@
 package pl.sdacademy.inheritance.timetoschool;
 
 
-import java.util.Arrays;
-
 public class School {
+
 
     private Teacher[] teachers;
     private Student[] students;
